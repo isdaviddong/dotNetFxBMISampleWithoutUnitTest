@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\BuildSchool\10-Azure\BMI\Bmi\Bmi\bin\Debug\Bmi.exe.config
+C:\Users\user\Desktop\BuildSchool\10-Azure\BMI\Bmi\Bmi\bin\Debug\Bmi.exe
+C:\Users\user\Desktop\BuildSchool\10-Azure\BMI\Bmi\Bmi\bin\Debug\Bmi.pdb
+C:\Users\user\Desktop\BuildSchool\10-Azure\BMI\Bmi\Bmi\obj\Debug\Bmi.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\BuildSchool\10-Azure\BMI\Bmi\Bmi\obj\Debug\Bmi.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\BuildSchool\10-Azure\BMI\Bmi\Bmi\obj\Debug\Bmi.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\BuildSchool\10-Azure\BMI\Bmi\Bmi\obj\Debug\Bmi.exe
+C:\Users\user\Desktop\BuildSchool\10-Azure\BMI\Bmi\Bmi\obj\Debug\Bmi.pdb
+D:\Bmi\Bmi\bin\Debug\Bmi.exe.config
+D:\Bmi\Bmi\bin\Debug\Bmi.exe
+D:\Bmi\Bmi\bin\Debug\Bmi.pdb
+D:\Bmi\Bmi\obj\Debug\Bmi.csproj.AssemblyReference.cache
+D:\Bmi\Bmi\obj\Debug\Bmi.csproj.CoreCompileInputs.cache
+D:\Bmi\Bmi\obj\Debug\Bmi.exe
+D:\Bmi\Bmi\obj\Debug\Bmi.pdb
